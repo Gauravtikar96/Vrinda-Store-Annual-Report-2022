@@ -22,3 +22,4 @@ Here's what I found out:
 What Vrinda Store can do: Target ads and offers to women aged 21 to 35 in Maharashtra, Karnataka, and Uttar Pradesh on Amazon, Flipkart, and Myntra.
 
 Thanks to Rishabh Mishra for the data and help!
+This Project is perform only on Excel to compleat all processes of project to make a Insightfull Dashboard.
